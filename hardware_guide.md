@@ -1,6 +1,6 @@
-= Building Guide
+# Building Guide
 
-== Hardware
+## Hardware
 
 - case
 - plate

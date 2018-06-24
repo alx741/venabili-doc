@@ -1,6 +1,6 @@
-= Building Guide
+# Building Guide
 
-== Materials
+## Materials
 
 - case/plate pieces
 - switches
