@@ -1,11 +1,11 @@
-= Glossary
+# Glossary
 
-== Firmware
+## Firmware
 
-Software runs on the microcontroller in your keyboard
+Software that runs on the microcontroller, in the keyboard.
 
 
-== Flashing
+## Flashing
 
 Writing the *firmware* in the microcontroller. This can happen at a *low level*,
 requiring special hardware and connections directly to the microcontroller
