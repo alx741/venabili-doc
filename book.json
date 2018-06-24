@@ -1,0 +1,11 @@
+{
+	"root": ".",
+	"title": "Venabili Keyboard",
+	"description": "The Venabili mechanical keyboard",
+	"author": "Daniel Campoverde C. [alx741]",
+
+    "plugins" : ["custom-favicon", "asciidoc-admonition-icons"],
+    "pluginsConfig" : {
+        "favicon": "img/favicon.png"
+    }
+}
