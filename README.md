@@ -1,4 +1,4 @@
-![The Venabili Keyboard](./img/logo_margin.png)
+![](./img/logo_margin.png)
 
 A *mechanical*, *layered*, *programmable*, *ergonomic*, *hackable*
 [keyboard](http://venabili.sillybytes.net).
