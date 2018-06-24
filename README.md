@@ -1,7 +1,7 @@
 ![The Venabili Keyboard](./img/logo_margin.png)
 
 A *mechanical*, *layered*, *programmable*, *ergonomic*, *hackable*
-http://venabili.sillybytes.net[keyboard].
+[keyboard](http://venabili.sillybytes.net).
 
 Named after *Dors Venabili*, a fictional character from Isaac Asimov's
 *Foundation* Series of novels. Venabili is a 40% mechanical keyboard with
