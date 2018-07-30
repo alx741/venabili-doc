@@ -4,6 +4,39 @@ These are the available keys at your disposal for defining layers in the
 `venabili.c` file.
 
 
+## Layers control keys
+
+Layer `n = 0` is the first (main) layer.
+
+- LS(n): Select `n`th layer (0 <= n < 256)
+- c_layer_lock
+- c_flash_mode
+
+
+
+## Mouse control keys
+
+### Movement
+
+Valid `speed`s are numbers between `0` and `15`
+
+- MU(speed): Up
+- MD(speed): Down
+- MR(speed): Right
+- ML(speed): Left
+- MWU(speed): Wheel up
+- MWD(speed): Wheel down
+
+### Clicks
+
+- m_click_1
+- m_click_2
+- m_click_3
+- m_click_4
+- m_click_5
+
+
+
 ## Normal keys
 
 ### Empty key
