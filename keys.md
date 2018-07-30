@@ -85,34 +85,63 @@ A key that does nothing
 
 ### Letters
 
-Lower case     Upper case
-----------    -----------
-   k_a           k_A
-   k_b           k_B
-   k_c           k_C
-   k_d           k_D
-   k_e           k_E
-   k_f           k_F
-   k_g           k_G
-   k_h           k_H
-   k_i           k_I
-   k_j           k_J
-   k_k           k_K
-   k_l           k_L
-   k_m           k_M
-   k_n           k_N
-   k_o           k_O
-   k_p           k_P
-   k_q           k_Q
-   k_r           k_R
-   k_s           k_S
-   k_t           k_T
-   k_u           k_U
-   k_v           k_V
-   k_w           k_W
-   k_x           k_X
-   k_y           k_Y
-   k_z           k_Z
+#### Lower case
+
+- k_a
+- k_b
+- k_c
+- k_d
+- k_e
+- k_f
+- k_g
+- k_h
+- k_i
+- k_j
+- k_k
+- k_l
+- k_m
+- k_n
+- k_o
+- k_p
+- k_q
+- k_r
+- k_s
+- k_t
+- k_u
+- k_v
+- k_w
+- k_x
+- k_y
+- k_z
+
+#### Upper case
+
+- k_A
+- k_B
+- k_C
+- k_D
+- k_E
+- k_F
+- k_G
+- k_H
+- k_I
+- k_J
+- k_K
+- k_L
+- k_M
+- k_N
+- k_O
+- k_P
+- k_Q
+- k_R
+- k_S
+- k_T
+- k_U
+- k_V
+- k_W
+- k_X
+- k_Y
+- k_Z
 
 
 ### Numbers
