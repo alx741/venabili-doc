@@ -37,6 +37,43 @@ Valid `speed`s are numbers between `0` and `15`
 
 
 
+## Macro keys
+
+- MACRO(id): select `id` macro (0 <= id < 26)
+
+
+## Modifiers
+
+### Apply modifiers to a key
+
+e.g.   Rctrl(Lshift(k_a)) = CTRL + SHIFT + a
+
+- Lctrl(key)
+- Lshift(key)
+- Lalt(key)
+- Lsuper(key)
+- Key Rctrl(key)
+- Key Rshift(key)
+- Key Ralt(key)
+- Key Rsuper(key)
+
+
+
+### Make a key behave like a modifier when held
+
+e.g.  HRshift(k_a) = 'a' when tapped, RShift when held
+
+- HLctrl(key)
+- HLshift(key)
+- HLalt(key)
+- HLsuper(key)
+- Key HRctrl(key)
+- Key HRshift(key)
+- Key HRalt(key)
+- Key HRsuper(key)
+
+
+
 ## Normal keys
 
 ### Empty key
