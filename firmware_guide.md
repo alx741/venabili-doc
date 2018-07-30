@@ -89,12 +89,11 @@ likely you're tools are not installed properly.
 Start by connecting the *ST-LINK* to the bottom pin header of the controller
 board. Make sure you use the `3.3v` of the *ST-LINK*.
 
-STM32 Board    ST-LINK
------------   ---------
-  GND            GND
-  CLk           SWDCLK
-  IO            SWDIO
-  3.3           3.3v
+* STM32 Board   <-->   ST-LINK
+*   GND         <-->     GND
+*   CLk         <-->    SWDCLK
+*   IO          <-->    SWDIO
+*   3.3         <-->    3.3v
 
 
 **Warning** (avoiding the magic smoke)
