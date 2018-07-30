@@ -38,7 +38,8 @@ start by desoldering those:
 ![](./img/IMG_20180626_104304.jpg)
 ![](./img/IMG_20180511_171243.jpg)
 
-Now put a solder bridge between the upper pads to make up for the jumper caps:
+Now put a solder bridge between the upper pads to make up for the removed jumper
+caps:
 
 ![](./img/IMG_20180511_171258.jpg)
 
@@ -89,5 +90,7 @@ on the right pads:
 ![](./img/IMG_20180513_153058.jpg)
 ![](./img/IMG_20180513_130714.jpg)
 
-Don't hold the board in place too tight just yet, as in the next section will
-have to use the pin headers at the bottom for the `low level flashing`.
+You might want to trim the flashing pin header at the bottom of the board to
+have an easy fit inside the case, but don't get rid of them completely as you
+might need them in the future if you manage to brick the bootloader when hacking
+it :)

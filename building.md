@@ -27,5 +27,4 @@ Try these links for instance:
 ## Tools
 
 - Soldering Iron
-- Solder
 - Tweezers

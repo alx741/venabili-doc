@@ -3,8 +3,8 @@
 - [Introduction](README.md)
 
 - [Building Guide](building.md)
-    - [Hardware](hardware_guide.md)
     - [Firmware](firmware_guide.md)
+    - [Hardware](hardware_guide.md)
 
 - [Default Layers]()
 
