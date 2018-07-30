@@ -102,6 +102,9 @@ STM32 Board    ST-LINK
 - Do not use the `5v` pin of the *ST-LINK* for this process
 - Do not connect the board USB port to anything for this process
 
+![](./img/IMG_20180730_151144.jpg)
+![](./img/IMG_20180730_151211.jpg)
+
 
 ## Low level flashing
 
