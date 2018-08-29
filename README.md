@@ -39,3 +39,14 @@ aspect of it to adapt it to your needs and liking.
     - Macros
     - Mouse control
 - Hackable
+
+
+## Lacking features
+
+There are some things that are yet to be implemented, namely:
+
+- Boot keyboard support.- It will probably not work for configuring the BIOS.
+  Moreover, you'll probably have to plug in the keyboard *after* the OS has
+  booted.
+
+- Volume and music control keys
