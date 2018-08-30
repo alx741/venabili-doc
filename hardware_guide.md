@@ -4,7 +4,9 @@ Now is when we actually build it: First we're gonna need a case to put the
 switches on, then we need to solder the switches with some diodes and onto the
 controller board.
 
-During the building process, always refer to the circuit diagram below.
+During the building process, always refer to the circuit diagram below. [Here is
+the PDF version for
+convenience](https://github.com/alx741/venabili/blob/master/schematics/schematic.pdf)
 
 ![Circuit Diagram](./img/diagram.png)
 
