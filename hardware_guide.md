@@ -8,6 +8,8 @@ During the building process, always refer to the circuit diagram below. [Here is
 the PDF version for
 convenience](https://github.com/alx741/venabili/blob/master/schematics/schematic.pdf)
 
+The labels in the diagram correspond to the white pin labels on the board.
+
 ![Circuit Diagram](./img/diagram.png)
 
 
