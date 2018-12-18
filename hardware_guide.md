@@ -49,7 +49,7 @@ caps:
 
 Desolder the reset push button as well, then solder the USB connector (follow
 the circuit diagram), and finally solder a *1.8k* resistor between the
-`PA12` and `3.3V` pads (I've used a 1k and 0.8k resistors in series).
+`A12` and `3.3V` pads (I've used a 1k and 0.8k resistors in series).
 
 ![](./img/IMG_20180513_133425.jpg)
 
