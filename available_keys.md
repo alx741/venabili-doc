@@ -44,6 +44,18 @@ Valid `speed`s are numbers between `0` and `15`
 
 ## Modifiers
 
+These only send a key press of a modifier key, but will not actually *modify*
+any Key.
+
+- m_lctrl
+- m_lshift
+- m_lalt
+- m_lsuper
+- m_rctrl
+- m_rshift
+- m_ralt
+- m_rsuper
+
 ### Apply modifiers to a key
 
 e.g.   Rctrl(Lshift(k_a)) = CTRL + SHIFT + a
@@ -192,22 +204,6 @@ A key that does nothing
 - k_close_bracket
 - k_open_brace
 - k_close_brace
-
-
-### Modifiers
-
-These only send a key press of a modifier key, but will not actually *modify*
-any Key.
-
-- m_lctrl
-- m_lshift
-- m_lalt
-- m_lsuper
-- m_rctrl
-- m_rshift
-- m_ralt
-- m_rsuper
-
 
 
 ### Non-printables
