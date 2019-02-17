@@ -64,10 +64,10 @@ e.g.   Rctrl(Lshift(k_a)) = CTRL + SHIFT + a
 - Lshift(key)
 - Lalt(key)
 - Lsuper(key)
-- Key Rctrl(key)
-- Key Rshift(key)
-- Key Ralt(key)
-- Key Rsuper(key)
+- Rctrl(key)
+- Rshift(key)
+- Ralt(key)
+- Rsuper(key)
 
 
 
@@ -79,10 +79,10 @@ e.g.  HRshift(k_a) = 'a' when tapped, RShift when held
 - HLshift(key)
 - HLalt(key)
 - HLsuper(key)
-- Key HRctrl(key)
-- Key HRshift(key)
-- Key HRalt(key)
-- Key HRsuper(key)
+- HRctrl(key)
+- HRshift(key)
+- HRalt(key)
+- HRsuper(key)
 
 
 
