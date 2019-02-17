@@ -6,8 +6,6 @@
     - [Firmware](firmware_guide.md)
     - [Hardware](hardware_guide.md)
 
-- [Default Layers]()
-
 - [Customizing Guide](customizing.md)
     - [Compiling & Flashing]()
     - [Layers]()
