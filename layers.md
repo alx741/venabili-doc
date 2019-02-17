@@ -6,9 +6,9 @@ comfortable and fast to reach, even if means duplicating keys just to have them
 in different places for different situations.
 
 
-## Declaring layers
+## Defining layers
 
-Layers are declared in the `venabili.c` file as 4x12 matrices of keys that match
+Layers are defined in the `venabili.c` file as 4x12 matrices of keys that match
 the position of the physical switches.
 
 Take a look at the default layer:
