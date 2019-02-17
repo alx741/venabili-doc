@@ -98,3 +98,13 @@ You might want to trim the flashing pin header at the bottom of the board to
 have an easy fit inside the case, but don't get rid of them completely as you
 might need them in the future if you manage to brick the bootloader when hacking
 it :)
+
+
+## Key caps
+
+Use screws to attach the bottom cover; using glue is discouraged as you might
+need to get inside in the future without destroying the case in the process.
+
+Put some nice key caps on, and you're ready to type!
+
+![](./img/IMG_20190217_111939.jpg)
