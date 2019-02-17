@@ -50,3 +50,6 @@ There are some things that are yet to be implemented, namely:
   booted.
 
 - Volume and music control keys
+
+- Windows build support.- In order to build the firmware and customize the
+  keyboard you'll need a \*NIX OS
