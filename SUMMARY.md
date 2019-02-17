@@ -7,10 +7,10 @@
     - [Hardware](hardware_guide.md)
 
 - [Customizing Guide](customizing.md)
-    - [Compiling & Flashing]()
-    - [Layers]()
+    - [Compiling & Flashing](compiling_flashing.md)
+    - [Layers](layers.md)
 // dual-function keys, pre-modified keys, double-shift capslock, mouse
-    - [Keys]()
-    - [Macros]()
+    - [Keys](keys.md)
+    - [Macros](macros.md)
 
-- [Available Keys](keys.md)
+- [Available Keys](available_keys.md)
