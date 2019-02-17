@@ -12,5 +12,6 @@
 // dual-function keys, pre-modified keys, double-shift capslock, mouse
     - [Keys](keys.md)
     - [Macros](macros.md)
+    - [Configuration](config.md)
 
 - [Available Keys](available_keys.md)
