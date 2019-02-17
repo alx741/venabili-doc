@@ -62,6 +62,24 @@ This key will put a space if you press it and release it quickly, but will let
 you access layer number 1 (that is the second layer) if you hold it and press
 some other key at the same time.
 
+Notice that if the same physical key that has the `Layer Selection` key in one
+layer, has some other key in the upper layer, that key will also be pressed as
+soon as you enter the layer. To avoid this have that key to be `k_empty` in the
+upper layer like so:
+
+```c
+Layer l0 =
+{
+    { LS(1, k_space), ... },
+    // ...
+};
+
+Layer l1 =
+{
+    { k_empty, ... },
+    // ...
+};
+```
 
 ### Locking
 
