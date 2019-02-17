@@ -1,7 +1,7 @@
 # Keys
 
-These are the available keys at your disposal for defining layers in the
-`venabili.c` file.
+These are the keys at your disposal for defining layers in the `venabili.c`
+file.
 
 
 ## Layers control keys
