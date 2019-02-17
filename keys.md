@@ -78,6 +78,12 @@ The `Layer Lock` key (`c_layer_lock`) allows you to lock in the current layer
 and release the lock when pressed again.
 
 
+## Macros
+
+As described in the [Macros](macros.md) section, the `Macro Selection` key
+(`MACRO(id)`) lets you trigger the *id* macro.
+
+
 ## Special
 
 If you want to be able to enter *Flash mode* without having to unplug the
